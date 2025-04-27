@@ -25,3 +25,11 @@ This is a simple Bank Management System written in C++ that allows you to manage
 
    ```bash
    g++ -o bankApp main.cpp account.cpp studentAccount.cpp creditAccount.cpp loanAccount.cpp specialCitizenAccount.cpp bussinessAccount.cpp savingAccount.cpp bank.cpp
+
+## Run the program:
+
+ - On Linux/macOS:
+  ./bankApp
+
+  - On Windows:
+  bankApp.exe
