@@ -28,8 +28,10 @@ This is a simple Bank Management System written in C++ that allows you to manage
 
 ## Run the program:
 
- - On Linux/macOS:
+ * On Linux/macOS:
+   
             ./bankApp
 
-  - On Windows:
-  bankApp.exe
+  * On Windows:
+    
+         bankApp.exe
