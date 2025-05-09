@@ -14,7 +14,7 @@ This is a simple Bank Management System written in C++ that allows you to manage
 
 ## Requirements
 
-- A C++ compiler like **g++**.
+- C++ compiler like **g++**.
 - The project files (`.cpp` and `.h` files) need to be in the same folder.
 
 ## Installation and Running
@@ -29,7 +29,7 @@ This is a simple Bank Management System written in C++ that allows you to manage
 ## Run the program:
 
  - On Linux/macOS:
-  ./bankApp
+            ./bankApp
 
   - On Windows:
   bankApp.exe
