@@ -11,6 +11,7 @@ Bank::Bank(string name)
     accounts = new Account *[capacity];
 }
 
+
 Bank::~Bank()
 {
     for (int i = 0; i < numAccounts; ++i)
