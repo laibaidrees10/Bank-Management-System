@@ -1,5 +1,5 @@
 #ifndef TRANSACTION_H
-#define TRANSACTION_
+#define TRANSACTION_H
 
 #include <iostream>
 #include <string>
